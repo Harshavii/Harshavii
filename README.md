@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <p  align="center">
 <img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=900&lines=Passionate+Web+Developer;Avid+Learner;UG+Artificial+Intelligence+Student;Self-taught+Programmer;AI+ML+enthusiast"  width="100%"  height="35px></a>
 </p>                                                                                                             
-<p  align="center">
+<!-- <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>     
+</p>      -->
 
 <h2><b>💻 Tech Stack</b></h2>
 <p align="center">
