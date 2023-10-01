@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img  src="https://octodex.github.com/images/inspectocat.jpg"  width="18%"</a>
 </p>
 <p  align="center">
-<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=900&lines=Passionate+Web+Developer;Avid+Learner;UG+Artificial+Intelligence+Student;Self-taught+Programmer;AI+ML+enthusiast;Looking+for+new+opportunities"  width="100%"  height="35px></a>
+
 </p>     
 
 <br>
