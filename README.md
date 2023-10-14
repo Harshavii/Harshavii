@@ -40,3 +40,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
 </p>  
+
+[![An image of @harshavii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshavii)](https://holopin.io/@harshavii)
